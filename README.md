@@ -1,4 +1,4 @@
-**ImageScout** -->  is an image search website that allows users to search for images using the Unsplash API. With a clean and intuitive interface, users can easily find high-quality images based on their search 	queries. The app features infinite scrolling with a "Show More" button to load additional images seamlessly.
+**ImageScout** -->  is an image search webapp that allows users to search for images using the Unsplash API. With a clean and intuitive interface, users can easily find high-quality images based on their search 	queries. The app features infinite scrolling with a "Show More" button to load additional images seamlessly.
 
 Features:
 
